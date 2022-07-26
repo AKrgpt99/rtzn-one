@@ -1,0 +1,26 @@
+#background {
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+
+#background.cityscape {
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/rtzn-dev.appspot.com/o/pixelated-cityscape.webp?alt=media&token=2289c65d-dfa9-4502-8311-d624bf43077e");
+}
+
+#background.city-sunset {
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/rtzn-dev.appspot.com/o/pixelated-city-sunset.gif?alt=media&token=0ced0fe8-9d85-432d-93e2-c51d67df9b8c");
+}
+
+#background.friendship {
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/rtzn-dev.appspot.com/o/pixelated-friendship.webp?alt=media&token=330f50b4-8413-4cad-be16-97c39626a207");
+}
+
+#background.aspirations {
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/rtzn-dev.appspot.com/o/pixelated-aspirations.webp?alt=media&token=5e93c102-290c-4428-a614-cc7738e20dac");
+}
